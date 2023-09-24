@@ -1,2 +1,2 @@
 # practica
-esto es una practic
+ready to go
